@@ -53,7 +53,8 @@ h6 {
 	left: 0;
 }
 .shake {
-	animation: shake-animation 4.72s ease infinite;
+	animation: shake-animation 3s ease infinite;
+
 	transform-origin: 50% 50%;
 }
 .element {
